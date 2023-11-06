@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resume lang="en">
+    <name>Sydnie Corey</name>
+    <study>Software Development Major</study>
+    <main_info>
+        <title>Summary</title>
+        <text>Artist and graphic designer turned programmer looking for opportunities to learn from mentors and build beautiful applications with personality and efficiency in all aspects of the product.</text>
+        
+        <title>Work Experience</title>
+        <job_title>Graphic Designer</job_title>
+        <subtitle>Freelance</subtitle>
+        <timeframe>2015 - Present</timeframe>
+        <text>Completed over 100 design projects across the country for individuals, small businesses, and city organizations.</text>
+        <text>Led clients through all parts of the design process including ideation, accurate timelines, design proofs, print and publication, and billing.</text>
+        <text>Worked with clients to create branding packages that included their overall aesthetic.</text>
+        <text>Fulfilled design requests for various formats such as print and publicity, as well as web and social media.</text>
+        <text>Worked as a consultant to train new graphic design student hires for the UVUSA at Utah Valley University.</text>
+
+        <title>Relevent Projects</title>
+        <project_name>Pomodoro Timer Application</project_name>
+        <subtitle>CS 1410 - Object Oriented Programming</subtitle>
+        <timeframe>Summer 2023</timeframe>
+        <text>Used Python to create a multi-threaded pomodoro timer that allowed a user to set and control a focus timer and break timer.</text>
+        <text>Used Kivy to implement a UI.</text>
+
+        <project_name>Sketchbook Prompt Generator</project_name>
+        <subtitle>Personal Project</subtitle>
+        <timeframe>Fall 2022</timeframe>
+        <text>Used C# to create a desktop application that randomly generates a prompt from two user defined lists.</text>
+        <text>Created a simple UI with a "generate prompt" button that displays the prompt in the window.</text>
+    </main_info>
+
+    <personal_info>
+        <title>Contact</title>
+        <phone_number>8018577397</phone_number>
+        <email>sydnie.kaylene@gmail.com</email>
+
+        <title>Education</title>
+        <degree>Associate of Science</degree>
+        <college>Utah Valley University</college>
+        <timeframe>2016-2018</timeframe>
+
+        <degree>Bachelor of Applied Science, Software Development</degree>
+        <college>Utah Valley University</college>
+        <timeframe>2022-Present</timeframe>
+
+        <title>Skills &amp; Services</title>
+        <text>Branding</text>
+        <text>Graphic Design</text>
+        <text>3D Modeling</text>
+        <text>Python</text>
+        <text>HTML and CSS</text>
+        <text>C++ and C#</text>
+        <text>Unreal Engine and Unity</text>
+
+        <title>References</title>
+        <text>Provided upon request.</text>
+    </personal_info>
+</resume>
